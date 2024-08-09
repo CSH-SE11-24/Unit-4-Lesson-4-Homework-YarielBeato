@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+h1{
+  text-align: center;
+}
+
+.nav{
+  text-align:center;
+  background-color: #6385b0;
+}
+
+#fp{
+  text-align: center;
+}
+
+
+#h2{
+  text-align: center;
+}
+
+body{
+  background-color: #d1d1ff;
+  font-family: 'Courier New', Courier, monospace;
+}
+.sd{
+  color:purple;
+  font-family:#714aa1 ;
+}
+
+#dp{
+  width: 60vw;
+}
+
+.sdp{
+  width: 30vw;
+}
+/* Add selectors to make the website look like the following: https://726ccf0a-6b5b-49e1-b58b-2ff592f02da7-00-33tjtum5lnyz8.teams.replit.dev/ */
+/* Hints in the README */
+
